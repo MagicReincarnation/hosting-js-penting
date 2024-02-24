@@ -1,0 +1,6 @@
+
+<script src='https://www.gstatic.com/firebasejs/8.6.7/firebase-app.js'></script>
+<script src='https://www.gstatic.com/firebasejs/8.6.7/firebase-database.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js'></script>
+    
+<span id='hirutshuji_lisensi' style='display:none'>U2FsdGVkX1+fHgY9yDP+/yHUJROtkcP24xiduSUYxxxBatWcEa4XMJYU/uslhT+l</span>
