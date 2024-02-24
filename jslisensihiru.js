@@ -1,6 +1,6 @@
 const codeNHiru = false;
     
-var x456y7sz = 30;
+var x456y7sz = 60;
 var e7k4d5c9r1p8tH = window.location.hostname;
 if (typeof firebase !== 'undefined' && typeof CryptoJS !== 'undefined') {
     const llurijfirsdjdkensiCsjsjsodeDisjwjwjv = document.getElementById('hirutshuji_lisensi'); if (llurijfirsdjdkensiCsjsjsodeDisjwjwjv) {
@@ -23,7 +23,7 @@ if (blswksogIjejwdMnetaasjsnsa) {
                     const wbwuianxewjanx = CryptoJS.AES.decrypt(wksjhxnekcd, 'Hnssidfrfufftfsfhfufjffai').toString(CryptoJS.enc.Utf8);
                     
 if (data && wbwuianxewjanx === idmzkdewiwnxcryphxntedLisewsdndjdnsiCowjwjdendns) {
-  codeNHiru = false;
+  codeNHiru = true;
   svscadlidnafjadLsaicenfffse = true;
                    
 } else {
@@ -46,4 +46,6 @@ wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh();
 function wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh() {
     alert('Lisensi untuk kode ini kosong');
     codeNHiru = false;
+  svscadlidnafjadLsaicenfffse = false;
+
   } 
