@@ -1,4 +1,3 @@
-function wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh() {
     document.body.classList.add("nqbaoshdneoshxbdsmdnxn");
     const qidonwjwjxgiwnsgxgahaokqheme = document.createElement("div");
     qidonwjwjxgiwnsgxgahaokqheme.innerHTML = `<style>
@@ -31,4 +30,3 @@ function wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh() {
         }
         aswonsksjstivajsjssiShsuwpan.textContent = asssswonsksjstivajsjssiShehehwhsuwpan;
     }, 1000);
-}
