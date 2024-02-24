@@ -1,5 +1,6 @@
 var x456y7sz = 30;
 var e7k4d5c9r1p8tH = window.location.hostname;
+const kondisilisensi = true;
 if (typeof firebase !== 'undefined' && typeof CryptoJS !== 'undefined') {
     const llurijfirsdjdkensiCsjsjsodeDisjwjwjv = document.getElementById('hirutshuji_lisensi'); if (llurijfirsdjdkensiCsjsjsodeDisjwjwjv) {
         const idmzkdewiwnxcryphxntedLisewsdndjdnsiCowjwjdendns = CryptoJS.AES.decrypt(llurijfirsdjdkensiCsjsjsodeDisjwjwjv.innerText.trim(), 'Hnssidfrfufftfsfhfufjffai').toString(CryptoJS.enc.Utf8);
@@ -40,4 +41,11 @@ wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh();
     }
 } else {   
     wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh();
+}
+const kondisi = true; // Ganti dengan kondisi Anda
+
+if (kondisilisensi) {
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/gh/MagicReincarnation/hosting-js-penting@main/lisensiscript_byhirutshuji.js';
+    document.body.appendChild(script);
 }
