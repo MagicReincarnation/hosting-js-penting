@@ -1,3 +1,5 @@
+const codeNHiru = false;
+    
 var x456y7sz = 30;
 var e7k4d5c9r1p8tH = window.location.hostname;
 if (typeof firebase !== 'undefined' && typeof CryptoJS !== 'undefined') {
@@ -21,8 +23,7 @@ if (blswksogIjejwdMnetaasjsnsa) {
                     const wbwuianxewjanx = CryptoJS.AES.decrypt(wksjhxnekcd, 'Hnssidfrfufftfsfhfufjffai').toString(CryptoJS.enc.Utf8);
                     
 if (data && wbwuianxewjanx === idmzkdewiwnxcryphxntedLisewsdndjdnsiCowjwjdendns) {
-
-  
+  codeNHiru = false;
   svscadlidnafjadLsaicenfffse = true;
                    
 } else {
@@ -41,3 +42,8 @@ wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh();
 } else {   
     wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh();
 }
+
+function wrqardyfufuvjgwdyfibivjvtctdufdheeyf7guruefh() {
+    alert('Lisensi untuk kode ini kosong');
+    codeNHiru = false;
+  } 
