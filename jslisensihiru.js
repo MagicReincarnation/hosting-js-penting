@@ -46,6 +46,6 @@ const kondisi = true; // Ganti dengan kondisi Anda
 
 if (kondisilisensi) {
     const script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/gh/MagicReincarnation/hosting-js-penting@main/lisensiscript_byhirutshuji.js';
+    script.src = 'https://cdn.jsdelivr.net/gh/MagicReincarnation/hosting-js-penting@main/jslisensihiru2.js';
     document.body.appendChild(script);
 }
